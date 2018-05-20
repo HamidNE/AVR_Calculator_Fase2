@@ -1,0 +1,65 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\Debug\AVR_Calculator_Fase2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AVR_Calculator_Fase2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AVR_Calculator_Fase2.map</FILE>
+  <FILE>AVR_Calculator_Fase2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <L10><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>13</LINE></L10>
+  <L0><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>20</LINE></L0>
+  <REFRESH><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>193</LINE></REFRESH>
+  <DELAY><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>306</LINE></DELAY>
+  <READ_KEY><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>123</LINE></READ_KEY>
+  <L14><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>30</LINE></L14>
+  <L15><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>41</LINE></L15>
+  <HAND_UP><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>110</LINE></HAND_UP>
+  <L16><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>47</LINE></L16>
+  <L17><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>90</LINE></L17>
+  <L21><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>60</LINE></L21>
+  <L212><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>61</LINE></L212>
+  <L18><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>67</LINE></L18>
+  <L22><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>69</LINE></L22>
+  <L19><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>76</LINE></L19>
+  <L23><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>78</LINE></L23>
+  <L20><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>84</LINE></L20>
+  <HU0><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>111</LINE></HU0>
+  <HU1><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>117</LINE></HU1>
+  <RK_RET><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>190</LINE></RK_RET>
+  <REF2><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>205</LINE></REF2>
+  <CONVERT_CODE_FOR_SEGMENT><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>240</LINE></CONVERT_CODE_FOR_SEGMENT>
+  <REF_RET><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>235</LINE></REF_RET>
+  <REF3><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>215</LINE></REF3>
+  <REF4><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>226</LINE></REF4>
+  <CF7S00><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>246</LINE></CF7S00>
+  <FOR_RET><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>301</LINE></FOR_RET>
+  <CF7S01><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>252</LINE></CF7S01>
+  <CF7S02><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>258</LINE></CF7S02>
+  <CF7S03><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>264</LINE></CF7S03>
+  <CF7S04><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>270</LINE></CF7S04>
+  <CF7S05><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>276</LINE></CF7S05>
+  <CF7S06><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>282</LINE></CF7S06>
+  <CF7S07><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>288</LINE></CF7S07>
+  <CF7S08><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>294</LINE></CF7S08>
+  <CF7S09><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>300</LINE></CF7S09>
+  <D0><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>311</LINE></D0>
+  <D1><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>313</LINE></D1>
+  <D2><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Calculator_Fase2\AVR_Calculator_Fase2\main.asm</FILE><LINE>315</LINE></D2>
+ </LABELS>
+</ASSEMBLER_INFO>
